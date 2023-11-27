@@ -1,0 +1,493 @@
+@media only screen and (max-width: 480px) {
+    /* Sidebar Styling -----------------------------------------------------------------------------------------------------------------------------------*/
+
+.rotate-btn{
+margin-top: 0px;
+}
+
+
+/* body Styling -----------------------------------------------------------------------------------------------------------------------------------*/
+
+body {
+background-color: black;
+margin-top: 0px;
+margin-left: 0px;
+margin-right: 0px;
+}
+
+
+.grid-container-1{
+display: grid;
+grid-template-columns: 1fr;
+grid-template-rows: 300px;
+margin-left: 20px;
+margin-right: 25px;
+}
+
+.displayed {
+width: 169px;
+height: 253px;
+margin-top: 50px;
+}
+
+.text1 {
+color: white;
+margin-top: 50px;
+font-size: 27px;
+font-family: Arial;
+display: flex;
+justify-content: center;
+align-items: center;
+text-align: center;
+z-index: 1;
+position: relative;
+}
+
+.price {
+color: white;
+margin-top: 50px;
+font-size: 27px;
+font-family: Arial;
+display: flex;
+justify-content: center;
+align-items: center;
+text-align: center;
+margin-top: 0px;
+}
+
+.pay-button {
+display: inline-block;
+font-size: 18px;
+line-height: 48px;
+height: 48px;
+color: black;
+min-width: 212px;
+background-color: rgb(255, 242, 0);
+text-align: center;
+border-radius: 12px;
+margin: 0 auto;
+display: flex;
+justify-content: center;
+}
+
+button a {
+display: block;
+width: 100%;
+height: 100%;
+text-decoration: none;
+color: inherit;
+}
+
+p{
+text-align: center;
+display: flex;
+justify-content: center;
+align-items: center;
+width: 90%;
+margin-left: 15px;
+margin-bottom: 10px;
+font-size: 13px;
+}
+
+.grid-container-2 {
+display: grid;
+grid-template-columns: 1fr 1fr 1fr;
+margin-left: 20px;
+margin-right: calc(100% - (230px + 20px));
+margin-top: 10px;
+}
+
+.pic1 {
+width: 56px;
+height: 112px;
+}
+
+.pic2 {
+width: 56px;
+height: 112px;
+}
+
+.pic3 {
+width: 56px;
+height: 112px;
+}
+
+.sub-pic {
+border: 2px solid black;
+}
+
+.sub-pic.active {
+border: 3px solid rgb(255, 242, 0);
+}
+
+.col2{
+margin-top: 00px;
+}
+
+}
+
+@media only screen and (min-width: 481px) and (max-width: 768px) {
+  /* Sidebar Styling -----------------------------------------------------------------------------------------------------------------------------------*/
+
+.rotate-btn{
+margin-top: 0px;
+}
+
+
+/* body Styling -----------------------------------------------------------------------------------------------------------------------------------*/
+
+body {
+background-color: black;
+margin-top: 0px;
+margin-left: 0px;
+margin-right: 0px;
+}
+
+
+.grid-container-1{
+display: grid;
+grid-template-columns: 1fr 2fr;
+grid-template-rows: 388px;
+margin-left: 20px;
+margin-right: 25px;
+}
+
+.displayed {
+width: 225px;
+height: 338px;
+margin-top: 50px;
+}
+
+.text1 {
+color: white;
+margin-top: 50px;
+font-size: 27px;
+font-family: Arial;
+display: flex;
+justify-content: center;
+align-items: center;
+text-align: center;
+z-index: 1;
+position: relative;
+}
+
+.price {
+color: white;
+margin-top: 50px;
+font-size: 27px;
+font-family: Arial;
+display: flex;
+justify-content: center;
+align-items: center;
+text-align: center;
+margin-top: 0px;
+}
+
+.pay-button {
+display: inline-block;
+font-size: 18px;
+line-height: 48px;
+height: 48px;
+color: black;
+min-width: 212px;
+background-color: rgb(255, 242, 0);
+text-align: center;
+border-radius: 12px;
+margin: 0 auto;
+display: flex;
+justify-content: center;
+}
+
+button a {
+display: block;
+width: 100%;
+height: 100%;
+text-decoration: none;
+color: inherit;
+}
+
+p{
+text-align: center;
+display: flex;
+justify-content: center;
+align-items: center;
+width: 90%;
+margin-left: 15px;
+margin-bottom: 10px;
+font-size: 13px;
+}
+
+.grid-container-2 {
+display: grid;
+grid-template-columns: 1fr 1fr 1fr;
+margin-left: 20px;
+margin-right: calc(100% - (230px + 20px));
+margin-top: 10px;
+}
+
+.pic1 {
+width: 75px;
+height: 150px;
+}
+
+.pic2 {
+width: 75px;
+height: 150px;
+}
+
+.pic3 {
+width: 75px;
+height: 150px;
+}
+
+.sub-pic {
+border: 2px solid black;
+}
+
+.sub-pic.active {
+border: 3px solid rgb(255, 242, 0);
+}
+}
+
+@media only screen and (min-width: 769px) and (max-width: 1024px) {
+/* Sidebar Styling -----------------------------------------------------------------------------------------------------------------------------------*/
+
+.rotate-btn{
+margin-top: 0px;
+}
+
+
+/* body Styling -----------------------------------------------------------------------------------------------------------------------------------*/
+
+body {
+background-color: black;
+margin-top: 0px;
+margin-left: 0px;
+margin-right: 0px;
+}
+
+
+.grid-container-1{
+display: grid;
+grid-template-columns: 1fr 2fr;
+grid-template-rows: 388px;
+margin-left: 258px;
+margin-right: 25px;
+}
+
+.displayed {
+width: 225px;
+height: 338px;
+margin-top: 50px;
+}
+
+.text1 {
+color: white;
+margin-top: 50px;
+font-size: 27px;
+font-family: Arial;
+display: flex;
+justify-content: center;
+align-items: center;
+text-align: center;
+}
+
+.price {
+color: white;
+margin-top: 50px;
+font-size: 27px;
+font-family: Arial;
+display: flex;
+justify-content: center;
+align-items: center;
+text-align: center;
+margin-top: 0px;
+}
+
+.pay-button {
+display: inline-block;
+font-size: 18px;
+line-height: 48px;
+height: 48px;
+color: black;
+min-width: 212px;
+background-color: rgb(255, 242, 0);
+text-align: center;
+border-radius: 12px;
+margin: 0 auto;
+display: flex;
+justify-content: center;
+}
+
+button a {
+display: block;
+width: 100%;
+height: 100%;
+text-decoration: none;
+color: inherit;
+}
+
+p{
+text-align: center;
+display: flex;
+justify-content: center;
+align-items: center;
+width: 90%;
+margin-left: 15px;
+margin-bottom: 10px;
+font-size: 13px;
+}
+
+.grid-container-2 {
+display: grid;
+grid-template-columns: 1fr 1fr 1fr;
+margin-left: 258px;
+margin-right: calc(100% - (258px + 220px));
+margin-top: 10px;
+}
+
+.pic1 {
+width: 75px;
+height: 150px;
+}
+
+.pic2 {
+width: 75px;
+height: 150px;
+}
+
+.pic3 {
+width: 75px;
+height: 150px;
+}
+
+.sub-pic {
+border: 2px solid black;
+}
+
+.sub-pic.active {
+border: 3px solid rgb(255, 242, 0);
+}
+}
+
+@media only screen and (min-width: 1025px) {
+
+/* Sidebar Styling -----------------------------------------------------------------------------------------------------------------------------------*/
+
+.rotate-btn{
+  margin-top: 0px;
+}
+
+
+/* body Styling -----------------------------------------------------------------------------------------------------------------------------------*/
+
+body {
+  background-color: black;
+  margin-top: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+
+.grid-container-1{
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  grid-template-rows: 500px;
+  margin-left: 300px;
+  margin-right: 25px;
+}
+
+.displayed {
+  width: 300px;
+  height: 450px;
+  margin-left: 10;
+  margin-top: 50px;
+}
+
+.text1 {
+color: white;
+margin-top: 50px;
+font-size: 36px;
+font-family: Arial;
+display: flex;
+justify-content: center;
+align-items: center;
+text-align: center;
+}
+
+.price {
+color: white;
+margin-top: 50px;
+font-size: 36px;
+font-family: Arial;
+display: flex;
+justify-content: center;
+align-items: center;
+text-align: center;
+margin-top: 0px;
+}
+
+.pay-button {
+display: inline-block;
+font-size: 18px;
+line-height: 48px;
+height: 48px;
+color: black;
+min-width: 212px;
+background-color: rgb(255, 242, 0);
+text-align: center;
+border-radius: 12px;
+margin: 0 auto;
+display: flex;
+justify-content: center;
+}
+
+button a {
+  display: block;
+  width: 100%;
+  height: 100%;
+  text-decoration: none;
+  color: inherit;
+}
+
+p{
+display: flex;
+justify-content: center;
+align-items: center;
+text-align: center;
+width: 90%;
+margin-left: 15px;
+font-size: 18px;
+}
+
+.grid-container-2 {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  margin-left: 300px;
+  margin-right: calc(100% - (312px + 300px));
+  margin-top: 10px;
+}
+
+.pic1 {
+  width: 100px;
+  height: 200px;
+}
+
+.pic2 {
+  width: 100px;
+  height: 200px;
+}
+
+.pic3 {
+  width: 100px;
+  height: 200px;
+}
+
+.sub-pic {
+  border: 2px solid black;
+}
+
+.sub-pic.active {
+  border: 3px solid rgb(255, 242, 0);
+}
+}
